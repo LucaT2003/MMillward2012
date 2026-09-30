@@ -1,4 +1,4 @@
-# Matthew Millwardd
+# Matthew Millward
 
 MSc Statistics (Statistical Finance) student at Imperial. First Class Honours @ Durham University (81% average).
 
